@@ -1,10 +1,11 @@
-package main.java;
-
 /**
  * TicTacToe
- * Copyright Tyler Philbrick; 2013
- * Created: 9/22/13
+ * Copyright (C) 2013 Tyler Philbrick
+ * Licensed GNU GENERAL PUBLIC LICENSE Version 2
+ * See LICENSE.txt for full license
  */
+
+package main.java;
 
 class Space {
     private int owner = 1;

@@ -1,12 +1,13 @@
+/**
+ * TicTacToe
+ * Copyright (C) 2013 Tyler Philbrick
+ * Licensed GNU GENERAL PUBLIC LICENSE Version 2
+ * See LICENSE.txt for full license
+ */
+
 package main.java;
 
 import java.util.Scanner;
-
-/**
- * TicTacToe
- * Copyright Tyler Philbrick; 2013
- * Created: 9/22/13
- */
 
 class UI {
     private Board board;
